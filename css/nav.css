@@ -1,0 +1,15 @@
+/**
+ * NAV MENU
+ **/
+nav {
+	left: 0;
+	position: fixed;
+	top: 0;
+	width: 100%;
+	z-index: 2;
+}
+@media screen and (orientation portrait) {
+	nav.horizontal-list {
+		height: 100%;
+	}
+}

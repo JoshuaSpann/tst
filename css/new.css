@@ -1,0 +1,7 @@
+.horizontal-list {
+	width: 100%;
+}
+.horizontal-list li {
+	padding: 0.5em;
+@import ('nav.css');
+@import ('footer.css');
