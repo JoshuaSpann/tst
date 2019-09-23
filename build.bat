@@ -1,8 +1,8 @@
-type src\wip.htm > docs\wip.htm
-for %%i in (src\*.md) do type src\header.md > docs\%%~ni.md done
-del docs\*
-copy src\*.htm docs\
-for %%i in (src\*.md) do type src\header.md >> docs\%%~ni.md
-for %%i in (src\*.md) do type src\%%~ni.md >> docs\%%~ni.md
-for %%i in (docs\*.md) do pandoc -f markdown -t html5 docs\%%~ni.md >> docs\%%~ni.htm && del docs\%%~ni.md
-del docs\header.htm
+type src\wip.htm > wip.htm
+for %%i in (src\*.md) do type src\header.md > %%~ni.md done
+del *.htm
+copy src\*.htm .\
+for %%i in (src\*.md) do type src\header.md >> %%~ni.md
+for %%i in (src\*.md) do type src\%%~ni.md >> %%~ni.md
+for %%i in (*.md) do pandoc -f markdown -t html5 %%~ni.md >> %%~ni.htm && del %%~ni.md
+del header.htm
