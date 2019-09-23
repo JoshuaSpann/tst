@@ -517,7 +517,7 @@ The presentation was built with the Blender Game Engine in the Blender 3D softwa
 The player is a rolling ball with a fedora hat (my signature look) that rolls to different parts of a platform.
 The player can view basic presentation content in any order they desire or they can simply roll around the stage.
 
-You can download [a zipfile of my presentation here](jspann_senior_project_presentation.zip).
+You can download [a zipfile of my presentation here](resources/jspann_senior_project_presentation.zip).
 
 ## Customer Contacts Tracker
 

@@ -1,4 +1,6 @@
+<head>
 <link href='css/main.css' ewl='stylesheet' type='text/css'/>
+</head>
 
 <header>
 
