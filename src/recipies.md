@@ -8,7 +8,7 @@ Hopefully you can try these recipies out and enjoy them!
 
 ## Chicken Linguini
 
-![Chicken Linguini](../img/food_chicken-linguini.jpg)
+![Chicken Linguini](img/food_chicken-linguini.jpg)
 A red Italian dish that goes great with some na'an, Carmello, and a glass of red wine.
 This dish provides about 3-4 servings, depending on how much you eat.
 
@@ -59,7 +59,7 @@ This dish provides about 3-4 servings, depending on how much you eat.
 
 ## CBQ (Currified-BBQ) Steak
 
-![Curry Steak](../img/food_cbq-steak.jpg)
+![Curry Steak](img/food_cbq-steak.jpg)
 A mildly spicy summer dish that goes well with some na'an and some hot weather.
 This serves as many people as there are steaks!
 
@@ -101,7 +101,7 @@ This serves as many people as there are steaks!
 
 ## Chicken Noodle Mushrooms
 
-![Chicken Noodle Mushrooms](../img/food_chicken-noodle-mushrooms.jpg)
+![Chicken Noodle Mushrooms](img/food_chicken-noodle-mushrooms.jpg)
 A nice, lightweight dish that isn't too heavy but just heavy enough.
 This recipie creates about 3-4 servings depending on how hungry folks are.
 

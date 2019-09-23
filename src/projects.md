@@ -35,7 +35,7 @@ After an extended grace period of late payments the site was shut down.
 
 ### JB's Smartphone Repair
 
-![celldrjb.com](../img/web_celldrjb.jpg)
+![celldrjb.com](img/web_celldrjb.jpg)
 
 A customized weebly site that was made under my personal web-design business: Monada Software (formerly Quantum Develop).
 It was customized on the PHP level to better control functionality of the site and was made to be easily maintained by the client.
@@ -45,7 +45,7 @@ I also helped with DNS redirection to ensure that the website would transfer fro
 
 ### Fieldon Baptist Church
 
-![fieldonbaptist.church](../img/web_fieldonbaptist.jpg)
+![fieldonbaptist.church](img/web_fieldonbaptist.jpg)
 
 A dynamic website that was primarily for content display.
 The website was built with responsive design as a core approach from the onset.
@@ -259,7 +259,7 @@ A customization of the base barcode extension in Inkscape.
 A checkbox for using dots instead of squares was added to the QR Code GUI's .inx and the rendered QR code would be rendered in a pretty, dotted format too. 
 This reduced manual, time-consuming work to the instant check of a checkbox and click of a button. 
 
-You can download a [zip file of DotQR here](../resources/dotQR.zip).
+You can download a [zip file of DotQR here](resources/dotQR.zip).
 
 
 ## `Video Text Balancer`: A Plugin to Ease Video Editing in Blender
